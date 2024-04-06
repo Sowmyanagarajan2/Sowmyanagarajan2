@@ -1,16 +1,22 @@
-### Hi there 👋
+👩‍💻 welcome to my profile 🫡
 
-<!--
-**Sowmyanagarajan2/Sowmyanagarajan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am sowmya, a seasoned professional with a passion for empowering teams and organizations to achieve their full potential.
+_______________________________________________________________________________________________________________________________________________________________
+🪧 Full Stack Developer And Freelancer ✨
+________________________________________________________________________________________________________________________________________________________________
+🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
 
-Here are some ideas to get you started:
+🌱 Libraries : Bootstrap, TailwindCSS, Material UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Backend : PHP / Laravel, codeIgniter, Node.js & Express
+
+💬 Database : MySQL, MongoDB, PostgreSQL, SQLite
+
+📫 Languages : English , Tamil
+
+👩‍💻Work Experience
+
+8+ Years of Total Experience: A seasoned professional with a track record of excellence as a Developer and Corporate Trainer.
+_________________________________________________________________________________________________________________________________________________________________
+
+
