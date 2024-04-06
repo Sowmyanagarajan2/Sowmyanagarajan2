@@ -1,9 +1,8 @@
 <h4>👩‍💻welcome to my profile 🫡</h4>
 
 <h5><i>I am sowmya, a seasoned professional with a passion for empowering teams and organizations to achieve their full potential.</h5></i>
-_______________________________________________________________________________________________________________________________________________________________
+
 <h4>🪧 Full Stack Developer And Freelancer ✨</h4>
-________________________________________________________________________________________________________________________________________________________________
  
  <i>🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular</i>
 
@@ -18,7 +17,6 @@ ________________________________________________________________________________
 <h4>👩‍💻Work Experience</h4>
 
 <i>8+ Years of Total Experience: A seasoned professional with a track record of excellence as a Developer and Corporate Trainer.</i>
-_________________________________________________________________________________________________________________________________________________________________
 <h4>Tech stacks</h4>
 <h5> Languages:</h5>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
