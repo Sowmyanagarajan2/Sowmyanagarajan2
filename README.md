@@ -2,17 +2,17 @@
 
 I am sowmya, a seasoned professional with a passion for empowering teams and organizations to achieve their full potential.
 _______________________________________________________________________________________________________________________________________________________________
-####🪧 Full Stack Developer And Freelancer ✨
+<h1>🪧 Full Stack Developer And Freelancer ✨</h1>
 ________________________________________________________________________________________________________________________________________________________________
-🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
+ 🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
 
-🌱 Libraries : Bootstrap, TailwindCSS, Material UI
+ 🌱 Libraries : Bootstrap, TailwindCSS, Material UI
 
-👨‍💻 Backend : PHP / Laravel, codeIgniter, Node.js & Express
+#### 👨‍💻 Backend : PHP / Laravel, codeIgniter, Node.js & Express
 
-💬 Database : MySQL, MongoDB, PostgreSQL, SQLite
+#### 💬 Database : MySQL, MongoDB, PostgreSQL, SQLite
 
-📫 Languages : English , Tamil
+#### 📫 Languages : English , Tamil
 
 👩‍💻Work Experience
 
