@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 <h4><i>8+ Years of Total Experience: A seasoned professional with a track record of excellence as a Developer and Corporate Trainer.</i></h4>
 
-<h2><b>Tech Stack</b></h2>
+<h3>👩‍💻<b>Tech Stack</b></h3>
 <br>
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -42,8 +42,9 @@ ________________________________________________________________________________
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 __________________________________________________________________________________________________________________________________
-<h3>Let's Connect</h3>
-<h4><i>I'm always excited to connect with fellow tech enthusiasts, professionals, and learners. Feel free to reach out for collaboration, discussions, or just to say hello!
+<h3> >👩‍💻Let's Connect</h3>
+<h4><i>I'm always excited to connect with fellow tech enthusiasts, professionals, and learners. 
+ Feel free to reach out for collaboration, discussions, or just to say hello!
 
 📫 Connect with me on LinkedIn for professional networking and updates.
 
