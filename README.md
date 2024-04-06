@@ -1,4 +1,4 @@
-###👩‍💻 welcome to my profile 🫡
+👩‍💻###welcome to my profile 🫡
 
 I am sowmya, a seasoned professional with a passion for empowering teams and organizations to achieve their full potential.
 _______________________________________________________________________________________________________________________________________________________________
