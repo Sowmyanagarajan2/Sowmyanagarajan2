@@ -1,8 +1,8 @@
-👩‍💻 welcome to my profile 🫡
+###👩‍💻 welcome to my profile 🫡
 
 I am sowmya, a seasoned professional with a passion for empowering teams and organizations to achieve their full potential.
 _______________________________________________________________________________________________________________________________________________________________
-🪧 Full Stack Developer And Freelancer ✨
+####🪧 Full Stack Developer And Freelancer ✨
 ________________________________________________________________________________________________________________________________________________________________
 🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
 
