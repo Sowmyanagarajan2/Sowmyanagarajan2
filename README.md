@@ -1,7 +1,7 @@
 <h1>👩‍💻welcome to my profile 🫡</h1>
 
 <h4><i>I am sowmya, a seasoned professional with a passion for empowering teams and organizations to achieve their full potential.</h4></i>
-____________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________
 <h3>🪧 Full Stack Developer And Freelancer ✨</h3>
  
 <h4> <i>🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular</i><h4>
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 <h4><i> 💬 Database : MySQL, MongoDB, PostgreSQL, SQLite </i><h4>
 
 <h4><i> 📫 Languages : English , Tamil </i><h4>
-_______________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________
 
 <h3>👩‍💻Work Experience</h3>
 
@@ -41,7 +41,7 @@ ________________________________________________________________________________
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
-_____________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________
 <h3>Let's Connect</h3>
 <h4><i>I'm always excited to connect with fellow tech enthusiasts, professionals, and learners. Feel free to reach out for collaboration, discussions, or just to say hello!
 
