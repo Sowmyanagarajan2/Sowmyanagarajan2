@@ -41,7 +41,7 @@ ________________________________________________________________________________
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
-_____________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 <h3>Let's Connect</h3>
 <h4><i>I'm always excited to connect with fellow tech enthusiasts, professionals, and learners. Feel free to reach out for collaboration, discussions, or just to say hello!
 
