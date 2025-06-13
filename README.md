@@ -3,12 +3,12 @@
 <h4><i>I am sowmya, a seasoned professional with a passion for empowering teams and organizations to achieve their full potential.</h4></i>
 _________________________________________________________________________________________________________________________
 <h3>🪧 Full Stack Developer And Freelancer corporate trainer✨</h3>
-<h3>Corporate Trainer - Java FullStack | MEAN/MERN | Android | Freelancer Cognitive psychologist | Curriculum Theorist | Instructional Researcher | Testing and Assessment Specialist
+<h3>Corporate Trainer - Java FullStack | MEAN/MERN | Android |AI |Gen AI| Freelancer Cognitive psychologist | Curriculum Theorist | Instructional Researcher | Testing and Assessment Specialist |
 </h3>
  
 <h4> <i>🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular</i><h4>
 
-<h4> <i>🌱 Libraries : Bootstrap, TailwindCSS, Material UI</i><h4>
+<h4> <i>🌱 Libraries : Bootstrap, TailwindCSS, Material UI,TensorFlow,</i><h4>
 
 <h4><i> 👨‍💻 Backend : PHP / Laravel, codeIgniter, Node.js & Express</i><h4>
 
